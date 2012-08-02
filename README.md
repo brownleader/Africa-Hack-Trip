@@ -21,6 +21,13 @@ Here's a map of [Hubs in Africa](https://africahubs.crowdmap.com/)
 * [ActivSpaces, Buea, Cameroon](http://activspaces.com)
 * [Co-creation Hub, Lagos, Nigeria](www.cchubnigeria.com/)
 * [Akendewa, Abidjan, Ivory Coast](http://www.akendewa.org/)
+* [Bantulab, Brazzaville, Congo](http://www.bantulab.com/)  
+  Suggested by [@bantulab](https://twitter.com/bantulab/status/230564309271470080)
+
+
+## Planning Meeting
+
+September 29th, 3-6pm, at [co.up Coworing Space in Berlin](co-up.de)
 
 
 ## Interested? Thoughts? Ideas?
