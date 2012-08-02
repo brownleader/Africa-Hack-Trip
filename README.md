@@ -8,6 +8,9 @@ The idea is to visit some of the emerging tech hubs and hacking spaces in Africa
 
 Here's a map of [Hubs in Africa](https://africahubs.crowdmap.com/)
 
+this list does not claim to be complete, feel free to fork & extend. 
+We're looking for Hacker / Coworking Spaces to meet the local dev community.
+
 * [iceaddis, Addis Ababa, Ethiopia](http://www.iceaddis.com/pages/open-space/)
 * [iHub, Nairobi, Kenya](http://ihub.co.ke/pages/home.php)*
 * [88mph Garage Nairobi, Nairobi, Kenya](http://www.humanipo.com/garage)*
