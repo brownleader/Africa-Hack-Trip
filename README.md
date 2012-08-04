@@ -14,7 +14,9 @@ We're looking for Hacker / Coworking Spaces to meet the local dev community.
 * [iceaddis, Addis Ababa, Ethiopia](http://www.iceaddis.com/pages/open-space/)
 * [iHub, Nairobi, Kenya](http://ihub.co.ke/pages/home.php)*
 * [88mph Garage Nairobi, Nairobi, Kenya](http://www.humanipo.com/garage)*
+* [NaiLab, Nairobi, Kenya](http://nailab.co.ke/)
 * [The Hub Kampala, Uganda](http://thehubkampala.com/)
+* [Hive Colab, Kampala, Uganda](http://hivecolab.com/)
 * [kLab, Kigali, Rwanda](http://www.klab.rw/)
 * [Dar es Salaam Innovation Space, Dar es Salaam, Tanzania](http://tanzict.or.tz)
 * [I-Hub malagasy, Antananarivo, Madagascar](http://www.i-hub.mg/)
@@ -24,13 +26,15 @@ We're looking for Hacker / Coworking Spaces to meet the local dev community.
 * [ActivSpaces, Buea, Cameroon](http://activspaces.com)
 * [Co-creation Hub, Lagos, Nigeria](www.cchubnigeria.com/)
 * [Akendewa, Abidjan, Ivory Coast](http://www.akendewa.org/)
+* [LabLiberia, Monrovia, Liberia](http://ilabliberia.org/)
 * [Bantulab, Brazzaville, Congo](http://www.bantulab.com/)  
   Suggested by [@bantulab](https://twitter.com/bantulab/status/230564309271470080)
 
 
 ## Planning Meeting
 
-September 29th, 3-6pm, at [co.up Coworing Space in Berlin](co-up.de)
+September 29th, 3-6pm, at [co.up Coworing Space in Berlin](co-up.de).  
+[Event page on Facebook](http://www.facebook.com/events/327777020647869/)
 
 
 ## Interested? Thoughts? Ideas?
