@@ -31,6 +31,14 @@ We're looking for Hacker / Coworking Spaces to meet the local dev community.
   Suggested by [@bantulab](https://twitter.com/bantulab/status/230564309271470080)
 
 
+## Current State
+
+We consider a 3 - 4 week trip in September / October 2013. We aim for a 
+$ 2,000 price tag and hope to cover costs beyond that with sponsors.
+
+Nothing is set in stone yet, your thoughts are much appreciated. 
+
+
 ## Planning Meeting
 
 September 29th, 3-6pm, at [co.up Coworing Space in Berlin](co-up.de).  
