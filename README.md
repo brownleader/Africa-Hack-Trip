@@ -18,7 +18,7 @@ We're looking for Hacker / Coworking Spaces to meet the local dev community.
 * [The Hub Kampala, Uganda](http://thehubkampala.com/)
 * [Hive Colab, Kampala, Uganda](http://hivecolab.org/)
 * [kLab, Kigali, Rwanda](http://www.klab.rw/)
-* [Dar es Salaam Innovation Space, Dar es Salaam, Tanzania](http://tanzict.or.tz)
+* [TANZICT, Dar es Salaam, Tanzania](http://tanzict.or.tz)
 * [I-Hub malagasy, Antananarivo, Madagascar](http://www.i-hub.mg/)
 * [BongoHive, Lusaka, Zambia](http://www.bongohive.com/)*
 * [House 4 Hack, Pretoria, South Africa](http://www.house4hack.co.za/)
