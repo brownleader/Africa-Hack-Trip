@@ -19,12 +19,12 @@ We're looking for Hacker / Coworking Spaces to meet the local dev community.
 * [Hive Colab, Kampala, Uganda](http://hivecolab.org/)
 * [kLab, Kigali, Rwanda](http://www.klab.rw/)
 * [TANZICT, Dar es Salaam, Tanzania](http://tanzict.or.tz)
-* [I-Hub malagasy, Antananarivo, Madagascar](http://www.i-hub.mg/)
+* [I-Hub Malagasy, Antananarivo, Madagascar](http://www.i-hub.mg/)
 * [BongoHive, Lusaka, Zambia](http://www.bongohive.com/)*
 * [House 4 Hack, Pretoria, South Africa](http://www.house4hack.co.za/)
 * [Codebridge, Cape Town, South Africa](http://www.codebridge.co.za/)*
 * [ActivSpaces, Buea, Cameroon](http://activspaces.com)
-* [Co-creation Hub, Lagos, Nigeria](www.cchubnigeria.com/)
+* [Co-creation Hub, Lagos, Nigeria](http://www.cchubnigeria.com/)
 * [Akendewa, Abidjan, Ivory Coast](http://www.akendewa.org/)
 * [LabLiberia, Monrovia, Liberia](http://ilabliberia.org/)
 * [Bantulab, Brazzaville, Congo](http://www.bantulab.com/)  
