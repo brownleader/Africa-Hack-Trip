@@ -16,7 +16,7 @@ We're looking for Hacker / Coworking Spaces to meet the local dev community.
 * [88mph Garage Nairobi, Nairobi, Kenya](http://www.humanipo.com/garage)*
 * [NaiLab, Nairobi, Kenya](http://nailab.co.ke/)
 * [The Hub Kampala, Uganda](http://thehubkampala.com/)
-* [Hive Colab, Kampala, Uganda](http://hivecolab.com/)
+* [Hive Colab, Kampala, Uganda](http://hivecolab.org/)
 * [kLab, Kigali, Rwanda](http://www.klab.rw/)
 * [Dar es Salaam Innovation Space, Dar es Salaam, Tanzania](http://tanzict.or.tz)
 * [I-Hub malagasy, Antananarivo, Madagascar](http://www.i-hub.mg/)
