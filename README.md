@@ -1,8 +1,12 @@
 # Africa Hack Trip
 
-<img src="https://dl.dropbox.com/u/732913/AfricaHackTripMap.png" align="right">Originally inspired by the article "[From Kenya to Madagascar: The African tech-hub boom](http://www.bbc.co.uk/news/business-18878585)" I decided to organize a trip through [Africa's Hacker Spaces](https://africahubs.crowdmap.com/). Due 2013. And yes, you're invited. Please get involved/.
+<img src="https://dl.dropbox.com/u/732913/AfricaHackTripMap.png" align="right">Originally inspired by the article "[From Kenya to Madagascar: The African tech-hub boom](http://www.bbc.co.uk/news/business-18878585)" I decided to organize a trip through [Africa's Hacker Spaces](https://africahubs.crowdmap.com/). Due 2013. And yes, you're invited. Please get involved.
 
-The idea is to visit some of the emerging tech hubs and hacking spaces in Africa, exchange experiences and hack together on new ideas, but also dive into new contries and cultures.
+
+## Objective
+
+Creating the foundation for a sustainable exchange with the emerging tech communities across Africa, collaborating on projects, making friends, changing the world – on hub at a time.
+
 
 ## Candidates
 
@@ -25,16 +29,16 @@ We're looking for Hacker / Coworking Spaces to meet the local dev community.
 * [Codebridge, Cape Town, South Africa](http://www.codebridge.co.za/)*
 * [ActivSpaces, Buea, Cameroon](http://activspaces.com)
 * [Co-creation Hub, Lagos, Nigeria](http://www.cchubnigeria.com/)
-* [Akendewa, Abidjan, Ivory Coast](http://www.akendewa.org/)
-* [LabLiberia, Monrovia, Liberia](http://ilabliberia.org/)
+* [Akendewa, Abidjan, Côte d'Ivoire](http://www.akendewa.org/)
+* [iLab Liberia, Monrovia, Liberia](http://ilabliberia.org/)
 * [Bantulab, Brazzaville, Congo](http://www.bantulab.com/)  
   Suggested by [@bantulab](https://twitter.com/bantulab/status/230564309271470080)
 
 
 ## Current State
 
-We consider a 3 - 4 week trip in September / October 2013. We aim for a 
-$ 2,000 price tag and hope to cover costs beyond that with sponsors.
+We consider a 3 - 4 week trip in September / October 2013. Probably starting in Addis Ababa, half time in Cape town, finishing in Liberia or Senegal. Participants are invited to join the whole trip or only a part of it. Everybody will
+have to pay for arrival / departure. We expect costs for the whole trip to be around $ 2,000. Hopefully we'll find sponsors to beat down the price.
 
 Nothing is set in stone yet, your thoughts are much appreciated. 
 
