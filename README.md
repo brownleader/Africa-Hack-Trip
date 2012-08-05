@@ -1,6 +1,6 @@
 # Africa Hack Trip
 
-<img src="https://dl.dropbox.com/u/732913/AfricaHackTripMap.png" align="right">Originally inspired by the article "[From Kenya to Madagascar: The African tech-hub boom](http://www.bbc.co.uk/news/business-18878585)" I decided to organize a trip through [Africa's Hacker Spaces](https://africahubs.crowdmap.com/). Due 2013. And yes, you're invited. Please get involved.
+<img src="https://dl.dropbox.com/u/732913/AfricaHackTripMap.png" align="right" style="position: relative; z-index: 1">Originally inspired by the article "[From Kenya to Madagascar: The African tech-hub boom](http://www.bbc.co.uk/news/business-18878585)" I decided to organize a trip through [Africa's Hacker Spaces](https://africahubs.crowdmap.com/). Due 2013. And yes, you're invited. Please get involved.
 
 
 ## Objective
@@ -27,12 +27,11 @@ We're looking for Hacker / Coworking Spaces to meet the local dev community.
 * [BongoHive, Lusaka, Zambia](http://www.bongohive.com/)*
 * [House 4 Hack, Pretoria, South Africa](http://www.house4hack.co.za/)
 * [Codebridge, Cape Town, South Africa](http://www.codebridge.co.za/)*
+* [Bantulab, Brazzaville, Congo](http://www.bantulab.com/)
 * [ActivSpaces, Buea, Cameroon](http://activspaces.com)
 * [Co-creation Hub, Lagos, Nigeria](http://www.cchubnigeria.com/)
 * [Akendewa, Abidjan, Côte d'Ivoire](http://www.akendewa.org/)
 * [iLab Liberia, Monrovia, Liberia](http://ilabliberia.org/)
-* [Bantulab, Brazzaville, Congo](http://www.bantulab.com/)  
-  Suggested by [@bantulab](https://twitter.com/bantulab/status/230564309271470080)
 
 
 ## Current State
